@@ -3,8 +3,8 @@
 
 [Streamlit 링크](https://choijeongan-storesales-app-wamkhm.streamlit.app/) <br/><br/>
 [발표 영상]() <br/><br/>
-[데모 시연]() <br/><br/>
-[포트 폴리오]() <br/><br/>
+[데모 시연](https://github.com/CHOIJEONGAN/CHOIJEONGAN/blob/main/TPJT_3rd/streamlitDEMO.mp4) <br/><br/>
+[포트 폴리오](https://github.com/CHOIJEONGAN/CHOIJEONGAN/tree/main/TPJT_3rd) <br/><br/>
 ![screensh](https://github.com/CHOIJEONGAN/StoreSales/blob/main/img/main_page.PNG)
 
 ## 1.프로젝트의 시작 (2023.04.20 ~ 2023.05.17)
